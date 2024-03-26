@@ -13,7 +13,7 @@ Coops@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="[def]" 
+<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" 
 
 ```
 dcooper94@github
