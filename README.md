@@ -13,7 +13,7 @@ Coops@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://github.com/TryKatChup/TryKatChup/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://i.kinja-img.com/gawker-media/image/upload/s--L-tqKLNm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pwl9mwg0qu5vdagwstde.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 dcooper94@github
