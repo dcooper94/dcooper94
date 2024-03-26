@@ -64,7 +64,7 @@ Coops@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
 ```
 
 ```
-[sudo] Password for trykatchup:
+[sudo] Password for Coops:
 
  bugs in code...
                   . '  .
