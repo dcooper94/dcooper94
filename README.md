@@ -46,7 +46,7 @@ Coops@github:~$ ./welcome.sh
 ```
 dcooper94@github
 -------------------------
-🏫 Graduate Engineering Consultant @Cyconsol
+🏫 Associate Engineering Consultant @Cyconsol
 🔎 Main interests in Red Teaming, Blue Teaming & Cybersec
 🔭 Working with multiple clients assisting with E8 uplifts, security analysis and help desk suport
 🌱 Learning about Penetration testing, Ethical Hacking and high level coding
