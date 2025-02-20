@@ -52,7 +52,7 @@ dcooper94@github
 🌱 Learning about Penetration testing, Ethical Hacking and high level coding
 🌟 Main languages: Python, Powershell
 🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
-🚩 Interested in network security and web security
+🚩 Interested in network security, Threat hunting, DevSecOps, HomeLabbing
 🎵 Hiphop, Rap, Dance, Trap, Drum&Bass, House
 💻 Total commits: 6
 ⭐ Total stars gained: 1
