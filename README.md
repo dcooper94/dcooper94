@@ -46,7 +46,7 @@ Coops@github:~$ ./welcome.sh
 ```
 dcooper94@github
 -------------------------
-🏫 GRC | Cyber Security | Engineering Consultant 
+🏫 GRC | Cyber Security | SecOps 
 🔎 Main interests in Red Teaming, Blue Teaming & Cybersec
 🔭 Working with multiple clients assisting with E8 uplifts, security analysis and help desk suport
 🌱 Learning about Penetration testing, Ethical Hacking and high level coding
@@ -60,13 +60,12 @@ dcooper94@github
 
 
 ```console
-Coops@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
+Coops@github:~$ sudo echo "* * * * * /usr/local/bin/hacking" >> /tmp/crontab$$
 ```
 
 ```
 [sudo] Password for Coops:
 
- bugs in code...
                   . '  .
                ' .( '.) '
        _     ('-.)' (`'.) '
@@ -79,7 +78,7 @@ Coops@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/crontab$$
    | >|=|< |
    |  `"`  |
    |       |
-Me |       |
+   |       |
    `-.___.-'
 
 ------------------------------------------------
