@@ -48,13 +48,13 @@ dcooper94@github
 -------------------------
 🏫 GRC | Cyber Security | SecOps 
 🔎 Main interests in Red Teaming, Blue Teaming & Cybersec
-🔭 Working with multiple clients assisting with E8 uplifts, security analysis and help desk suport
+🔭 Working with multiple clients assisting with E8 uplifts, security analysis.
 🌱 Learning about Penetration testing, Ethical Hacking and high level coding
-🌟 Main languages: Python, Powershell
+🌟 Main languages: Python, Powershell, Java
 🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
 🚩 Interested in network security, Threat hunting, DevSecOps, HomeLabbing
 🎵 Hiphop, Rap, Dance, Trap, Drum&Bass, House
-💻 Total commits: 6
+💻 Total commits: 293
 ⭐ Total stars gained: 1
 ```
 
