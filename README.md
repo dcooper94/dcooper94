@@ -41,7 +41,7 @@ Coops@github:~$ ./welcome.sh
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<img align="left" src="[https://i.kinja-img.com/gawker-media/image/upload/s--L-tqKLNm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pwl9mwg0qu5vdagwstde.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fanonymus-hacker-1125x2436.jpg&tbnid=pC0VLqDGV6hHbM&vet=10CA4QxiAoBmoXChMIiKP2gKKWkAMVAAAAAB0AAAAAEAc..i&imgrefurl=https%3A%2F%2Fhdqwalls.com%2Fdownload%2F1125x2436%2Fanonymus-hacker&docid=dl1P8fpp69IpFM&w=1125&h=2436&itg=1&q=cybersecurity%20image%20900x1600&client=firefox-b-d&ved=0CA4QxiAoBmoXChMIiKP2gKKWkAMVAAAAAB0AAAAAEAc)" width="420" /> 
+<img align="left" src="https://i.kinja-img.com/gawker-media/image/upload/s--L-tqKLNm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pwl9mwg0qu5vdagwstde.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fanonymus-hacker-1125x2436.jpg" width="420" /> 
 
 ```
 dcooper94@github
