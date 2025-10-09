@@ -41,7 +41,7 @@ Coops@github:~$ ./welcome.sh
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<img align="left" src="https://i.kinja-img.com/gawker-media/image/upload/s--L-tqKLNm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pwl9mwg0qu5vdagwstde.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fanonymus-hacker-1125x2436.jpg" width="420" /> 
+<img align="left" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.hdqwalls.com%2Fdownload%2Fanonymus-hacker-1125x2436.jpg" width="420" /> 
 
 ```
 dcooper94@github
