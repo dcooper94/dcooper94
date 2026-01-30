@@ -54,8 +54,6 @@ dcooper94@github
 🏴‍☠️ Currently involved in CTF competitions and sysadmin tasks
 🚩 Interested in network security, Threat hunting, DevSecOps, HomeLabbing
 🎵 Hiphop, Rap, Dance, Trap, Drum&Bass, House
-💻 Total commits: 293
-⭐ Total stars gained: 1
 ```
 
 
